@@ -1,1 +1,3 @@
 Este archivo fue creado con la finalidad de ser modificado desde una repositorio clonado.
+
+- Primer cambio del archivo que fue creado en el repositorio y posteriormente modificado en el branch featureAlpha.
