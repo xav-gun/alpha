@@ -2,5 +2,6 @@ Este archivo fue creado con la finalidad de ser modificado desde una repositorio
 
 - Primer cambio del archivo que fue creado en el repositorio y posteriormente modificado en el branch featureAlpha.
 
--Esta es el segundo cambio, agregando esta nueva linea al archivo.
+- Esta es el segundo cambio, agregando esta nueva linea al archivo.
+
 - Se agrega la ultima linea del archivo desde github
